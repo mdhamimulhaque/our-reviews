@@ -61,7 +61,7 @@ function App() {
                     <span onClick={prevSlider}><FaAngleLeft /></span>
                     <span onClick={nextSlider}><FaAngleRight /></span>
                 </div>
-                <button onClick={randomSlider}>Random Slider</button>
+                <button onClick={randomSlider}>Random Reviews</button>
             </div>
         </main>
   );
